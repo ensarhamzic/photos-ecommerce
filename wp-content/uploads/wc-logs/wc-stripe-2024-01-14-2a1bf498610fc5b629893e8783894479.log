@@ -1,0 +1,4 @@
+2024-01-14T14:46:15+00:00 ERROR Error creating Stripe webhook. Mode: test. Reason: Invalid URL: URL must be publicly accessible. Consider using a tool like the Stripe CLI to test webhooks locally: https://github.com/stripe/stripe-cli
+2024-01-14T15:21:48+00:00 INFO Webhook notification received: Event: payment_intent.created
+2024-01-14T15:21:55+00:00 INFO Webhook notification received: Event: payment_intent.succeeded
+2024-01-14T15:21:55+00:00 INFO Webhook notification received: Event: charge.succeeded

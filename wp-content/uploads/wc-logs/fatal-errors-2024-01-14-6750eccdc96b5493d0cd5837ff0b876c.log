@@ -1,0 +1,2 @@
+2024-01-14T14:10:49+00:00 CRITICAL Out of memory (allocated 83886080) (tried to allocate 20480 bytes) in C:\xampp\htdocs\photos-ecommerce\wp-content\plugins\woocommerce\src\Admin\API\Reports\Downloads\Stats\Controller.php on line 294
+
